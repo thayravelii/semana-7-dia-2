@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200604/pngtree-cute-hand-drawn-style-mathematics-education-green-background-image_337559.jpg")
+}
+
+#questao {
+    font-size: 30px;
+    background-color: gray;
+    border-radius: 100px;
+    
+}
+
+#btnSalvar {
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: brown;
+    color:black;
+    cursor: pointer;
+    margin: 20px;
+    position: absolute;
+    left: 700px;
+    top: 500px;
+
+}
+
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  
+    
+  
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+tr,td {
+    width: 400px;
+    background-color: gray;
+    border-radius: 100px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    background-color: red;
+    border-radius: 100px;
+
+}

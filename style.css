@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+img {
+    width: 150px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px dotted rebeccapurple;
+    border-radius: 50px;
+}
